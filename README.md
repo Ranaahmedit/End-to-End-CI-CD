@@ -63,6 +63,7 @@ Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a
                        ---------------------------------------------------------------------------------------------------------------------------
 
 
+
   - CI Pipeline:
 
       ![jenkins1](https://github.com/Ranaahmedit/End-to-End-CI-CD/assets/127610751/54789846-653d-4779-849c-0b1c84454f86)
