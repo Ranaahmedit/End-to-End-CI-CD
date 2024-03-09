@@ -60,7 +60,8 @@ Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a
 
 - Update the deployment file (e.g., deployment.yaml) with the new Docker image version.
 - Commit the changes to the Git repository and push to GitHub.
-                       ---------------------------------------------------------------------------------------------------------------------------
+  
+  ---------------------------------------------------------------------------------------------------------------------------
 
 
 
